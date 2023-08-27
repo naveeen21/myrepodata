@@ -33,7 +33,3 @@ an efficient manner.
 
 3. The majority of clients are coming from offline travel agents to make their reservations.
 
-## **Analysis and findings**
-The accompanying bar graph shows the percentage of reservations that are canceled and those that are not. It is obvious that there are still a significant number of reservations that have not been canceled. There are still 37% of clients who canceled their reservation, which has a significant impact on the hotels' earnings.
-
-
