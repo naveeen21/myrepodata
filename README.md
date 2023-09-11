@@ -19,19 +19,7 @@ an efficient manner.
 
 7. Clients make hotel reservations the same year they make cancellations. Make this below points easier to understand
 
-## **Research Question**
-1. What are the variables that affect hotel reservation cancellations?
 
-2. How can we make hotel reservations cancellations better?
-
-3. How will hotels be assisted in making pricing and promotional decisions?
-
-## **Hypothesis**
-1. More cancellations occur when prices are higher.
-
-2. When there is a longer waiting list, customers tend to cancel more frequently.
-
-3. The majority of clients are coming from offline travel agents to make their reservations.
 
 ## **Analysis and Findings**
 The accompanying bar graph shows the percentage of reservations that are canceled and those that are not. It is obvious that there are still a significant number of reservations that have not been canceled. There are still 37% of clients who canceled their reservation, which has a significant impact on the hotels' earnings.
