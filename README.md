@@ -24,3 +24,15 @@ an efficient manner.
 ## **Analysis and Findings**
 The accompanying bar graph shows the percentage of reservations that are canceled and those that are not. It is obvious that there are still a significant number of reservations that have not been canceled. There are still 37% of clients who canceled their reservation, which has a significant impact on the hotels' earnings.
 
+
+
+## spa project 2
+## Sales Performance Analysis and visualization
+To analyze the sales data of XYZ Corporation for the fiscal year 2023-24 to identify 
+trends, perform root cause analysis on any issues identified, and provide actionable business 
+insights. You will be required to write SQL queries to extract data, analyze the data to find 
+root causes for sales performance, visualize your findings, and create a dashboard that 
+presents these insights in an intuitive manner
+
+
+
